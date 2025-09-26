@@ -1,4 +1,4 @@
-# 🧰 UK Biobank Preprocessing Toolbox
+# 🧰 UK Biobank Toolbox
 
 A lightweight, transparent, and reproducible pipeline to clean, standardize, and group UK Biobank data for epidemiological and clinical research — with a focus on **nervous system disorders** and **socioeconomic covariates**.
 
